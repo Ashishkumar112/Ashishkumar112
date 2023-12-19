@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ashishkumar112
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I have good command over fronend developement and now learning backend developement.
+  
 
 <!---
 Ashishkumar112/Ashishkumar112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
