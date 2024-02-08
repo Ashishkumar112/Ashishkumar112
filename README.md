@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashishkumar112
 - 👀 I’m interested in Web Developement
-- 🌱 I have good command over fronend developement and now learning backend developement.
+- 🌱 I have good command over fronend developement and backend developement.
   
 
 <!---
